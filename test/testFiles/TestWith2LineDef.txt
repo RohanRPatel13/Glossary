@@ -1,0 +1,4 @@
+TestWith2LineDef
+Loaded into map
+with 2 lines
+

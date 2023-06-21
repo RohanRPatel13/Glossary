@@ -1,0 +1,4 @@
+TestWith3LineDef
+Loaded into map
+with multiple lines
+in definition

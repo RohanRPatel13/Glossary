@@ -1,0 +1,12 @@
+TestOne
+Loaded into the file
+
+TestWith2LineDef
+Loaded into map
+with 2 lines
+
+TestWith3LineDef
+Loaded into map
+with multiple lines
+in definition
+
